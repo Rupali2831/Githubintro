@@ -11,3 +11,4 @@ raddishes
 onions 
 potatoes
 chilli
+walnuts
