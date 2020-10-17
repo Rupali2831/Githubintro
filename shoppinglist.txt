@@ -10,3 +10,4 @@ cucumbers
 raddishes
 onions 
 potatoes
+chilli
